@@ -1,7 +1,7 @@
 ____
 # Mariela
 ____
-[Site](https://1kiritos1.github.io/mariela/)
+[Site](https://devf1s.github.io/mariela/)
 
 ### Used:
 * ***HTML***
